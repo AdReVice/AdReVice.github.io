@@ -2,6 +2,8 @@
 
 [Free Advice](http://adrevice.github.io/) is a one place where you will get Knowledge and solutions to your small problems.
 
+*Do Share the Website links*
+
 ## Getting Started
 
 To get Started
@@ -23,4 +25,4 @@ Free Advice was created by and is maintained by **Manish Joshi**, Software Engin
 
 ## Copyright and License
 
-Copyright 2017 AdreVice, under the *MIT* license.
+Copyright 2017 AdreVice, under the *MIT* license...
