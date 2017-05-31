@@ -1,4 +1,4 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
+# [Manish Joshi](http://introtomanish.tk/) 
 
 [Free Advice](http://adrevice.github.io/) is a one place where you will get Knowledge and solutions to your small problems.
 
